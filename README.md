@@ -31,6 +31,8 @@
 
 ## Мои работы
 
+Тестирование [формы заявки на дебетовую карту](https://disk.yandex.ru/d/2pSOF4TeSRysSA)
+
 **Контакты**
 
 [Telegram](https://t.me/Nikchk)
